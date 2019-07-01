@@ -1,4 +1,6 @@
 
+<!-- modellizzare le classi per gestire i prodotti di un magazzino, usando i concetti di classi ed ereditarietà -->
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
