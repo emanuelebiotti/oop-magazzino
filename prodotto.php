@@ -2,13 +2,11 @@
 
 class Prodotto {
 
-  public $tipologia;
   public $materiale;
   public $peso;
   public $codice;
 
-  function __construct($_tipologia, $_materiale, $_peso) {
-    $this->tipologia = $_tipologia;
+  function __construct($_materiale, $_peso) {
     $this->materiale = $_materiale;
     $this->peso = $_peso;
   }
