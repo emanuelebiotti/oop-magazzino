@@ -9,7 +9,7 @@
   <body>
     <div class="container">
       <h1 class="text-center"> Inventario di magazzino (in PHP)</h1>
-      <h5>Piccolo elenco ottenuto creando due classi, la seconda delle quali eredita alcuni metodi e propietà della prima </h5>
+      <h5>Piccolo elenco dei prodotti in magazzino in un mobilificio ottenuto creando due classi, la seconda delle quali eredita alcuni metodi e proprietà della prima </h5>
 
         <?php
 
